@@ -39,6 +39,19 @@ Eventually I will include ips file diffs of the default.xbe or demo.xbe file so 
 | 1.09  | 523d82be68f267579864331085a56ce8  | 0105 Part No. X11-04644  | NTSC | North America Best of Platinum Hits Best-Selling Xbox Game | Content Cell  | Content |
 | 1.09  | 523d82be68f267579864331085a56ce8  | 0903 Part No. X10-18964  | NTSC | North America Only On Xbox Game Of The Year | Content Cell  | Content |
 
+# Demo
+
+Note: The Full Disc MD5 is going to include non-halo stuff, so may generate an MD5 for the Halo folder in the future. Also the version numbers are kind of irrelevant, unless somehow certain demo discs actually had variant releases, which AFAICT did not happen.
+
+| Version  | Full Disc MD5 | Part No. | Region | Demo Disc Name | Disc Image | Full Scans |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1.01  | 3b4673fe11cb3354bc9e08f846aae7a1  |   | NTSC | North America Official Xbox Magazine Disc 11  | Content Cell  | Content Cell  |
+| 1.01  | ab19620c4e47d77348feb0eea2a99fa1 |   | NTSC | North America Official Xbox Magazine Disc 17  | Content Cell  | Content Cell  |
+| 1.02  | 00e281c09fa341e41f90376773f3733e | 0902 Part No. X09-05041  | NTSC | North America Exhibiton Demo Disc  | Content Cell  | Content Cell  |
+| 1.02  | 00732467bf710dd50da70fc7eb7758d8 | 0604 Part No. X10-75848 EN  | PAL | German Xbox The Best of Demo Disk Version 10.0  | Content Cell  | Content Cell  |
+| 1.05  | 1ee7fa11430f6e72ac67bf182ecbf894 |  | PAL | Europe Xbox Playable Start Pack 2003 | Content Cell  | Content Cell  |
+| 1.05  | 71972b5868c687c86669c4e170c970c2 |  | PAL | Australian The Ultimate Selection XBOX Playable Game Sampler | Content Cell  | Content Cell  |
+| 1.12  | 17cea7b20bcf4770f375246656bdc5aa |  | PAL | Eurpe The Official Xbox Starter Pack 2004 | Content Cell  | Content Cell  |
 
 
 
