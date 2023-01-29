@@ -18,9 +18,35 @@ Eventually I will include ips file diffs of the default.xbe or demo.xbe file so 
 | 1.03  | 579298e3e856787323e8e0acbe4431a6  | 0901 Part No. X08-61627 EN  | PAL | Australia Only On Xbox | Content Cell  | Content Cell  |
 | 1.03  | 579298e3e856787323e8e0acbe4431a6  | 0104 Part No. X10-40104 EN  | PAL | Australia Best Of Classics | Content Cell  | Content Cell  |
 | 1.03  | 579298e3e856787323e8e0acbe4431a6  | 0104 Part No. X10-40104 EN  | PAL | Europe Only On Xbox Software in English, Manual in Danish, Finnish, Norwegian, and Sweden | Content Cell  | Content Cell  |
-| 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0104 Part No. X10-40104 EN  | PAL | French Version Classics | Content Cell  | Content Cell  |
+| 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0104 Part No. X10-40104 EN  | PAL | French Classics | Content Cell  | Content Cell  |
 | 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0901 Part No. X08-61627 EN  | PAL | French Only On Xbox | Content Cell  | Content Cell  |
 | 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0104 Part No. X10-40103 DE  | PAL | German Classics | Content Cell  | Content Cell  |
 | 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0901 Part No. X08-61627 EN  | PAL | German Only On Xbox | Content Cell  | Content Cell  |
 | 1.04  | fbeca96bfc230e2a19c35969d5aa2f0d  | 0206 Arbkelnr X12-13029 DE  | PAL | German Only On Xbox | Content Cell  | Content Cell  |
+| 1.05  | b3307e1309ddc74409822d128b9e600a  | 0104 Part No. X10-40104 EN  | PAL | Italian Classics | Content Cell  | Content Cell  |
+| 1.05  | b3307e1309ddc74409822d128b9e600a  | 0901 Part No. X08-61627 EN  | PAL | Spainish Only On Xbox Totalmente In Castellano | Content Cell  | Content Cell  
+| 1.05  | b3307e1309ddc74409822d128b9e600a  | 0104 Part No. X10-40104 EN  | PAL | Spainish Classics | Content Cell  | Content Cell   
+| 1.05  | b3307e1309ddc74409822d128b9e600a  | 0104 Part No. X10-40104 EN  | PAL | Philips Exclusive Promotion (Probably Not A Variant) | Content Cell  | Content Cell  
+| 1.06  | 56cd36650c2afcbdbed1797b4bcb41fe  | K43-00002 X08-74982  | NTSC-J | Japanese Platinum Hits Only On Xbox | Content Cell  | Content Cell  
+| 1.06  | ca1e8cbb88ea9a2bd9ba6ebf5a100966  | 0901 Part No. X08-54601  | NTSC | Mexico Game Of The Year Made In USA | Content Cell  | Content Cell  
+| 1.06  | ca1e8cbb88ea9a2bd9ba6ebf5a100966  | 0901 Part No. X08-54601  | NTSC | Canada French Game Of The Year Only On Xbox | Content Cell  | Content Cell  
+| 1.06  | ca1e8cbb88ea9a2bd9ba6ebf5a100966  | 0901 Part No. X08-54601  | NTSC | North America Game Of The Year Not For Resale Bottom Center | Content Cell  | Content 
+| 1.06  | ca1e8cbb88ea9a2bd9ba6ebf5a100966  | 0901 Part No. X08-54601  | NTSC | North America Only On Xbox Game Of The Year Microsoft Store Sticker | Content Cell  | Content Cell |
+| 1.06  | ca1e8cbb88ea9a2bd9ba6ebf5a100966  | 0901 Part No. X08-54601  | NTSC | North America Game Of The Year Not For Resale Bottom Left | Content Cell  | Content |
+| 1.09  | 523d82be68f267579864331085a56ce8  | 0903 Part No. X10-16812  | NTSC | North America Not For Resale Disc Only | Content Cell  | Content |
+| 1.09  | 523d82be68f267579864331085a56ce8  | 0903 Part No. X10-18964  | NTSC | Mexico Game Of The Year Made In Mexico | Content Cell  | Content |
+| 1.09  | 523d82be68f267579864331085a56ce8  | 0903 Part No. X10-18964  | NTSC | Canada French Game Of The Year | Content Cell  | Content |
+| 1.09  | 523d82be68f267579864331085a56ce8  | 0105 Part No. X11-04644  | NTSC | North America Best of Platinum Hits Best-Selling Xbox Game | Content Cell  | Content |
+| 1.09  | 523d82be68f267579864331085a56ce8  | 0903 Part No. X10-18964  | NTSC | North America Only On Xbox Game Of The Year | Content Cell  | Content |
+
+
+
+
+
+
+
+
+
+
+
 
